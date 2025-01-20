@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [atharvk.in](atharvk.in)
+- 👨‍💻 All of my projects are available at [https://atharvk.in/](https://atharvk.in/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **atharvkadole16@gmail.com**
 
-- 📄 Know about my experiences [https://atharvk.in/]([atharvk.in](https://atharvk.in/))
+- 📄 Know about my experiences [https://atharvk.in/](https://atharvk.in/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
