@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atharvkadole16@gmail.com**
 
-- 📄 Know about my experiences [https://atharvk.in/](atharvk.in)
+- 📄 Know about my experiences [https://atharvk.in/]([atharvk.in](https://atharvk.in/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
